@@ -10,18 +10,22 @@
     Ingrese primer valor:
     <input type="text" name="valor1">
     <br>
+    <br>
     Ingrese segundo valor:
     <input type="text" name="valor2">
     <br>
-    <input type="radio" name="radio1" value="suma">sumar
     <br>
-    <input type="radio" name="radio1" value="resta">restar
+    <input type="radio" name="radio1" value="Suma">Sumar
     <br>
-    <input type="radio" name="radio1" value="multiplicar">multiplicar
+    <input type="radio" name="radio1" value="Resta">Restar
     <br>
-    <input type="radio" name="radio1" value="division">division
+    <input type="radio" name="radio1" value="Multiplicar">Multiplicar
     <br>
-    <input type="radio" name="radio1" value="nombre">nombre
+    <input type="radio" name="radio1" value="Division">Division
+    <br>
+    <input type="radio" name="radio1" value="nombre">Nombre
+    <br>
+    <br>
     <br>
     <input type="submit" name="operar">
   </form>
